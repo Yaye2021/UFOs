@@ -9,11 +9,11 @@ The purpose of the job is to create a JavaScript file with visual functionality 
 ## RESULTS
 Once created the webpage it looks like this:
 
-![Title](images/Imagen1.png)
+![Title](Images/Imagen1.png)
 
 On the top of, we can find Danas article, and scrolling down, the table without applying a filter, with all the results of UFOs sighting from January 1st 2010 to January 13th 2010.
 
-![Title](images/Imagen2.png)
+![Title](Images/Imagen2.png)
 
 
 On the left side, are the filters in order to get the required information. The user can apply one of the filters, for example, just date, city, state, country and shape. 
@@ -21,17 +21,17 @@ On the left side, are the filters in order to get the required information. The 
     Example 1: Filtering only by City= “el cajon”
 
 
-![Title](images/Imagen2.1.png)
+![Title](Images/Imagen2.1.png)
 
 Or the filters can be used simultaneously, for example, by date and state, or country and shape, as shown below:
 
     Example 2: Date=1/4/2010 and State= CA
 
-![Title](images/Imagen3.png)
+![Title](Images/Imagen3.png)
 
     Example 3: Country= US and Shape = triangle
 
-![Title](images/Imagen4.png)
+![Title](Images/Imagen4.png)
 
 This functionality gives the user the facility to search specific information they are looking for.
 
